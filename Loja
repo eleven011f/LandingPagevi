@@ -1,0 +1,91 @@
+<Doctype html/>
+
+<html long="en">
+
+<cabeça>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, imitial-scale=1.0">
+
+    <link href="/storage/emulated/0/INDEX/Styles/styes.css" rel="stylesheet">
+
+    <link href="/storage/emulated/0/INDEX/Styles/media.css" rel="stylesheet">
+
+    <title>Página de destino</title>
+
+</head>
+
+  <corpo>
+
+    <cabeçalho>
+
+       <div id="título">
+
+         <h1>Loja</h1>
+
+         <h1>Mercosul</h1>
+
+       </div>
+
+       
+
+       <ul>
+
+          <a href="#"><li>Início</li></a>
+
+          <a href="#"><li>Serviços</li></a>
+
+          <a href="#"><li>Sobre</li></a>
+
+          <a href="#"><li>Contato</li></a>
+
+          <a href="#" id="Inscreva-se-btn"><li>Ja tem uma conta</li></a>
+
+       </ul>
+
+    </header>
+
+    
+
+   <principal>
+
+        <à parte>
+
+             <h2><span>Faça sua compra</span></h2>
+
+             <h2>na Loja</h2>
+
+        <p>Horem Ipsum é simplesmente um texto fictício da indústria tipográfica e de impressão. Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500
+
+        </p>
+
+          <forma>
+
+               <input type="Text" placeholder="Nome">
+
+               <input type="email" placeholder="E-mail">
+
+               <input type="enviar" value="Enviar">
+
+         </form>
+
+       </aside>
+
+       
+
+        <artigo>
+
+              <img src="77d0a7c454e658833800528e748edbe9.png" alt="mulher-roxa">
+
+        </artigo>
+
+   </main>
+
+   
+
+  </body>
+
+</html>
